@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRollingBall</string>
+    <string name="btn">リセット</string>
+    <string name="txv">頑張るゾ！</string>
+    <string name="result_Win">オラの勝ちだゾ</string>
+    <string name="result_Lose">オラもう頑張れないゾ〜</string>
+</resources>
